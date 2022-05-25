@@ -2,7 +2,7 @@
 - 👀 I’m interested in deepen my knowledge in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me: bureu2209@gmail.com or +5532999478493(whatsapp)
+- 📫 How to reach me: bureu2209@gmail.com
 
 <!---
 Brandon-Guimaraes/Brandon-Guimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
