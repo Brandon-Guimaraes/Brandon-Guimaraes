@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brandon-Guimaraes
-- 👀 I’m interested in deepen my knowledge in python
+- 👀 I’m interested in deepen my knowledge of programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me: bureu2209@gmail.com
